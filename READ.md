@@ -1,7 +1,7 @@
-#Hello World
+##Hello World
 ## This is my first coding project in Javascript and HTML/CSS 
 
-##This is a TO-DO app 
+## This is a TO-DO app 
 ## 1) It is simple and easy to use and responsive and robust .
 ![First Look] assest/images/1.png
 ## 2) To add a task simply write and press enter it will added to the bottom of the list.
